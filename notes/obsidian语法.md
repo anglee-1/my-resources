@@ -74,3 +74,5 @@ Tab缩进，直接创建子层级
 ![Pasted image 20261103210918.png](../assets/pasted-image-20261103210918.png)
 
 3.链接到块
+
+4.外部链接
