@@ -71,11 +71,11 @@ Tab缩进，直接创建子层级
 | note     | 笔记   | 紫色    |
 | warning  | 警告   | 黄色    |
 | abstract | 摘要   | 紫色    |
-| todo     | 成功   | 绿色    |
-| success  | 失败   | 皇册    |
-| question |      |       |
-| faliure  |      |       |
-| danger   |      |       |
+| todo     | 代表   | 绿色    |
+| success  | 成功   | 绿色    |
+| question | 问题   | 粉色    |
+| faliure  | 失败   | 黄色    |
+| danger   | 危险   | 粉色    |
 
 
 
