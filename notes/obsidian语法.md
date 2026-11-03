@@ -126,26 +126,3 @@ Tab缩进，直接创建子层级
 首行写对应语言（如python），启动prism语法高亮
 
 2.嵌套代码块
-`````md
-
-````md
-
-```dataviewjs
-
-dv.paragraph(`
-
-~~~mermaid
-
-graph TD
-
-A --> B
-
-~~~
-
-`)
-
-```
-
-````
-
-`````
