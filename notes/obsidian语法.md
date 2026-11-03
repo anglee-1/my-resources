@@ -1,7 +1,12 @@
 ---
-title: "obsidian语法"
 aliases:
+cssclasses:
 tags:
+created: 2026-11-03
+updated: 2026-11-03
+count:
+categories:
+title:
 ---
 
 # 一、基础语法
