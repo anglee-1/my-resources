@@ -1,5 +1,7 @@
 ---
 title: "obsidian语法"
+aliases:
+tags:
 ---
 
 # 一、基础语法
@@ -117,10 +119,7 @@ Tab缩进，直接创建子层级
 </blockquote>
 
 2.属性
----
-title: reading notes
-author: Mr. xin
----
+笔记最顶部输入\-\-\-，弹出对应属性选项
 
 
 
