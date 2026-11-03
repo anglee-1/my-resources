@@ -136,7 +136,6 @@ Tab缩进，直接创建子层级
 | **count** | **计数**。系统自带的统计属性（如字数等），或者作为自定义数据供 Dataview 插件进行查询统计。 |
 | **categories** | **分类**。与标签类似，但通常用于更宏观或单一的分类（如“日记”、“教程”），常配合 Dataview 插件使用。 |
 | **title** | **标题**。笔记的标题。默认 Obsidian 以文件名为标题，这里填写通常是为了 Dataview 查询或发布（如 Digital Garden）时显示自定义标题。 |
-
 *(注：`aliases`、`tags`、`cssclasses` 是 Obsidian 原生内置属性，有特殊功能；其余如 `created`、`count` 等属于自定义属性，主要用于配合插件进行数据管理。)*
 
 
