@@ -64,7 +64,18 @@ Tab缩进，直接创建子层级
 # 四、标注
 首行写\[\!类型\]
 
-| 
+| type     | name | color |
+| -------- | ---- | ----- |
+| info     | 提示   | 蓝色    |
+| tip      | 写作建议 | 绿色    |
+| note     | 笔记   | 紫色    |
+| warning  | 警告   | 黄色    |
+| abstract | 摘要   | 紫色    |
+| todo     | 成功   | 绿色    |
+| success  | 失败   | 皇册    |
+| question |      |       |
+| faliure  |      |       |
+| danger   |      |       |
 
 
 
